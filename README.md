@@ -1,2 +1,2 @@
-# mlflow_run
-testing mlrun command to run model from github
+# mlflow run
+testing mlfow run command to run model from github
